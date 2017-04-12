@@ -35,7 +35,7 @@ while (i <= 5):
         print 'Your IP detail'
         print 'IP : {4} \nRegion : {1} \nCountry : {2} \nCity : {3} \nService Provider : {0} \nLatitude,Longitude : {5}'.format(
             org, region, country, city, ip, location)
-        print '\n##############################################\n'
+        print '\n[+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+][+]\n'
         i=i+1
     except:
         pass
